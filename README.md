@@ -1,1 +1,3 @@
 # christmas-tree
+
+Project info
